@@ -2,8 +2,7 @@ def ingresar_temperatura_dia(dia):
   """
   Función para ingresar la temperatura de un día específico.
 
-  Args:
-    dia: El día de la semana (por ejemplo, "Lunes", "Martes", "Miercoles" , "Jueves" . "Viernes" , "Sabado" , "Domingo").
+     dia: El día de la semana (por ejemplo, "Lunes", "Martes", "Miercoles" , "Jueves" . "Viernes" , "Sabado" , "Domingo").
 
   Returns:
     La temperatura ingresada como un valor flotante.
@@ -14,9 +13,6 @@ def ingresar_temperatura_dia(dia):
 def calcular_promedio_semanal(temperaturas):
   """
   Función para calcular el promedio semanal de temperaturas.
-
-  Args:
-    temperaturas: Un diccionario que contiene las temperaturas de cada día.
 
   Returns:
     El promedio semanal de temperaturas como un valor flotante.
