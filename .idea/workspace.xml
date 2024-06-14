@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bd6a168b-ed0d-4849-bda1-3dd6428baab5" name="Changes" comment="Tarea Semana 3 Programaccion Tradicional">
-      <change afterPath="$PROJECT_DIR$/Semana 3/Tradicional.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Semana 3/Programacion Tradicional.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Semana 3/Tradicional.py" beforeDir="false" afterPath="$PROJECT_DIR$/Semana 3/Tradicional.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,25 +46,26 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;Python.1.2-1. Ejemplo Tecnicas de Programacion.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Ejemplo de Tecnicas POO.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Programacion Tradicional.executor&quot;: &quot;Run&quot;,
-    &quot;Python.main.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Python.1.2-1. Ejemplo Tecnicas de Programacion.executor": "Run",
+    "Python.Ejemplo de Tecnicas POO.executor": "Run",
+    "Python.Programacion Tradicional.executor": "Run",
+    "Python.Tradicional.executor": "Run",
+    "Python.main.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Ronny M\PycharmProjects\POO\Semana 2\Guia Ejemplo" />
@@ -175,6 +174,7 @@
       <workItem from="1718375131393" duration="285000" />
       <workItem from="1718375433115" duration="1055000" />
       <workItem from="1718376509825" duration="22000" />
+      <workItem from="1718376540950" duration="373000" />
     </task>
     <task id="LOCAL-00001" summary="Semana 2 POO">
       <option name="closed" value="true" />
@@ -232,7 +232,31 @@
       <option name="project" value="LOCAL" />
       <updated>1718375393932</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Tarea Semana 3 Programaccion Tradicional">
+      <option name="closed" value="true" />
+      <created>1718376835403</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1718376835403</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Tarea Semana 3 Programaccion Tradicional">
+      <option name="closed" value="true" />
+      <created>1718376855022</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1718376855022</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Tarea Semana 3 Programaccion Tradicional">
+      <option name="closed" value="true" />
+      <created>1718376912122</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1718376912122</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -257,9 +281,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="Tarea Semana 3 Programaccion Tradicional" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/POO$1_2_1__Ejemplo_Tecnicas_de_Programacion.coverage" NAME="1.2-1. Ejemplo Tecnicas de Programacion Coverage Results" MODIFIED="1718376347281" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Semana 2/Guia Ejemplo" />
+    <SUITE FILE_PATH="coverage/POO$1_2_1__Ejemplo_Tecnicas_de_Programacion.coverage" NAME="1.2-1. Ejemplo Tecnicas de Programacion Coverage Results" MODIFIED="1718376564219" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Semana 2/Guia Ejemplo" />
     <SUITE FILE_PATH="coverage/POO$main.coverage" NAME="main Coverage Results" MODIFIED="1717691387453" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/POO$Programacion_Tradicional.coverage" NAME="Programacion Tradicional Coverage Results" MODIFIED="1718375768577" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Semana 3" />
     <SUITE FILE_PATH="coverage/POO$Ejemplo_de_Tecnicas_POO.coverage" NAME="Ejemplo de Tecnicas POO Coverage Results" MODIFIED="1717702864640" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Semana 2/Tarea Desarrollo de Ejemplos de POO" />
+    <SUITE FILE_PATH="coverage/POO$Tradicional.coverage" NAME="Tradicional Coverage Results" MODIFIED="1718376770029" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Semana 3" />
   </component>
 </project>
